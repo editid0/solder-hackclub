@@ -14,11 +14,13 @@ A simple letter r shaped PCB with some LEDs and a button that activates the LEDs
 
 
 ## PCB
-![588087eb-3fea-48b8-8e7f-0af70896eabc](https://github.com/user-attachments/assets/0149794f-84ad-4487-a679-b2db7b341076)
+![image](https://github.com/user-attachments/assets/004201da-c8bf-48b2-9365-a8e76f4cbf94)
 
 
 ## 3D view
-![96801486-3bf8-413a-8de2-c52b15f4b63b](https://github.com/user-attachments/assets/caa6b1b3-aaa4-4511-a913-00e1d139749b)
+![image](https://github.com/user-attachments/assets/0476eb6d-a3d8-47f9-8b8f-ddc073a63303)
+![image](https://github.com/user-attachments/assets/dea9b935-5b9a-4068-a2ce-0b8ad8886320)
+
 
 
 Slack username is `editid`
